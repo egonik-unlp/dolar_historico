@@ -18,6 +18,6 @@ El código está presentado en dos 'versiones'
     ```
     Al correr el script se generará el archivo `ambito.csv` con los datos descargados.
     
-* El archivo `notebooks\ambito.ipynb`. Se puede visualizar localmente con Jupyter notebooks/lab, o online en Google Colab con el link provisto.
+* El archivo `notebooks\ambito.ipynb`. Se puede visualizar localmente con Jupyter notebooks/lab, o online en Google Colab con el link provisto. Tiene un par de grafiquitos que obviamente no pretenden ser ningun tipo de análisis, mi idea es poner algún gráfico interactivo en algún momento.
 
 
