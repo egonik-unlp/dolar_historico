@@ -14,7 +14,7 @@ El código está presentado en dos 'versiones'
     ```
     Para instalar utilizando el de pip:
     ```bash
-    pip install -r requirements.txt
+    pip install -r requirements_pip.txt
     ```
     Al correr el script se generará el archivo `ambito.csv` con los datos descargados.
     
