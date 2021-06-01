@@ -26,7 +26,7 @@ def get_data(URL:str, XPATH:str, XPATH_CLICK:str, XPATH_TABLE:str)->str:
 
 def parser(table_element:str)-> dict:
     table = BeautifulSoup(table_element, 'lxml')
-    for rows in soup.find_all('tr'):
+    for rows in table.find_all('tr'):
         finder = lambda x: rows.find_all(x)
         if finder('th'):
             headers=[nodo.get_text() for nodo in finder('th')]
