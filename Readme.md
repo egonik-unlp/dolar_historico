@@ -17,6 +17,9 @@ El código está presentado en dos 'versiones'
     pip install -r requirements_pip.txt
     ```
     Al correr el script se generará el archivo `ambito.csv` con los datos descargados.
+    
+    
+    
 [EDIT] Agregué los archivos `scraper_env_basic.yml` y  `requirements_pip_basic.txt` que no incluyen las librerías necesarias para poder usar jupyter notebooks.
     
 * El archivo `notebooks\ambito.ipynb`. Se puede visualizar localmente con Jupyter notebooks/lab, o online en Google Colab con el link provisto. Tiene un par de grafiquitos que obviamente no pretenden ser ningun tipo de análisis, mi idea es poner algún gráfico interactivo en algún momento.
